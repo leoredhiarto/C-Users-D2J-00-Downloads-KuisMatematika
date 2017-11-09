@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_1a43ac13337cfe5bed7818abf2b1ee3af189f4b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_7eeded601cd8c58e5f5bf8a8c0f423c74310b9d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cdeedfd0410728f11f9c1a2733987a2aae0ffc46">
+        <dex dex="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c22b8261351038d5dbfd3a10b4c2938752603e60\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_534068842381db393a06c5518cc266b07aa6e3e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_1622f1ff8d8e7cdee7b5b4e827c8e6bca2e124a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_cb9da7f84b4828b9842f12d44283bd3de4a288df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\D2J-00\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c2f191b90ed0c514e7d7f01e8e518b5ea7387498\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bf60560ea87ba1d8f9feffc0a653b5e02e5e2e6a">
+        <dex dex="C:\Users\D2J-00\Downloads\KuisMatematika\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4d08a883e9088e54fca3cb777c4282e80331fd1a\classes.dex" />
+    </item>
+
+</items>
